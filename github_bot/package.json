@@ -37,7 +37,7 @@
     "nock": "^13.0.5",
     "nodemon": "^2.0.16",
     "smee-client": "^1.2.3",
-    "ts-jest": "^29.4.11",
+    "ts-jest": "^29.4.12",
     "ts-node": "^10.9.2",
     "typescript": "^7.0.2"
   },
